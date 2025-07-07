@@ -1,15 +1,72 @@
-<section align="center">
-<h1>Hi! My name is Gabriel Messias! 👋</h1>
+# 👨‍💻 Gabriel C0d3
+
+**`Desenvolvedor Front-End`**
 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-messias-04b74a373/)
+
+<p align="left">
+    
+   
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcode&layout=compact&langs_count=7&theme=dark"/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
+<br/>
+<br/>
 
-<h3>Skills:</h3>
+### 📊 Estatísticas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py )](https://skillicons.dev)
-
-</section>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielc0d3&show_icons=true&theme=synthwave)
