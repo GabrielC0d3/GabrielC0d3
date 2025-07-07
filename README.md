@@ -2,7 +2,7 @@
 <h1>Hi! My name is Gabriel Messias! 👋</h1>
 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-m%C3%BCller-leonini-machado-aaa542264/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-messias-04b74a373/)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcode&layout=compact&langs_count=7&theme=dark"/>
