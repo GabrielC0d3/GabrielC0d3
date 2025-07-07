@@ -1,16 +1,15 @@
-## Hi there 👋
+<section align="center">
+<h1>Hi! My name is Gabriel Messias! 👋</h1>
 
-<!--
-**GabrielC0d3/GabrielC0d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-m%C3%BCller-leonini-machado-aaa542264/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcode&layout=compact&langs_count=7&theme=dark"/>
+
+
+<h3>Skills:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py )](https://skillicons.dev)
+
+</section>
