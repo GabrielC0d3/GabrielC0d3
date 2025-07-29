@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel C0d3
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor FullStack`**
 
 
 
