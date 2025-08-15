@@ -65,18 +65,13 @@
 />
 <img 
     align="left" 
-    alt="Github" 
-    title="Gihub"
-    width="30px" 
-    style="padding-right: 10px;" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/Java-original.svg" 
 />
+
 
 
 <br/>
