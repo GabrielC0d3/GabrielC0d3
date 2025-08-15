@@ -73,17 +73,11 @@
 <img 
     align="left" 
     alt="Java" 
-    title="Gihub"
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
 />
-<img 
-    align="left" 
-    alt="AWS" 
-    title="Gihub"
-    width="30px" 
-    style="padding-right: 10px;" 
-/>
+
 
 <br/>
 <br/>
