@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Eu sou o GabrielC0d3<br><br>- 🔭 Estou estudante de desenvolvimento Full-Stack<br>- 📚 Atualmente estou aprendendo Nodejs <br>- ⚡ No meu tempo livre, gosto de explorar novas ferramentas tecnológicas, programar pequenos projetos e jogar.</p>
+<p align="left">Eu sou o GabrielC0d3<br>
 
 ###
 
